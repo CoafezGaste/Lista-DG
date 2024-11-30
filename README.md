@@ -1,0 +1,2 @@
+# Lista-DG
+diagnostice
